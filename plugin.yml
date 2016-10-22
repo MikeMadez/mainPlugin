@@ -1,0 +1,5 @@
+name: MadezMoba
+main: mainPlugin.Main
+version: 2.0
+description: Its a plugin
+autor: MikeMadez
